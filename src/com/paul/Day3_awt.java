@@ -12,6 +12,7 @@ public class Day3_awt extends Frame {
             x0=e.getX();
             y0 = e.getY();
         }
+        //
 
         public void mouseDragged(MouseEvent e) {
             int x1 = e.getX(), y1 = e.getY();
